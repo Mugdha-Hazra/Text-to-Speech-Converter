@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/carter_one</item>
+        <item>@font/donegal_one</item>
+        <item>@font/ewert</item>
+        <item>@font/freckle_face</item>
+        <item>@font/griffy</item>
+        <item>@font/henny_penny</item>
+        <item>@font/kavoon</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/monofett</item>
+        <item>@font/shojumaru</item>
+        <item>@font/spicy_rice</item>
+    </array>
+</resources>
